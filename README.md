@@ -14,7 +14,9 @@ SQL - Banco de Dados Relacional é um tipo de banco de dados que armazenamos dad
 
 MongoDB: 
 
-Este também é um banco de dados de código aberto com alta performance, ele armazena as informações relevantes em um documento
+Este também é um banco de dados de código aberto com alta performance, ele armazena as informações relevantes em um documento, mas não é recomendado em casos de necessidade de Relacionamentos/JOIN, em que propriedades ACID e transações são importantes e em sistemas de pagamento.
+----------------------
+O Engenheiro de Dados tem maior proximidade com a manipulação dos dados e possui o conhecimento técnico das ferramentas, Cabe também ao Engenheiro de Dados manter este p em execução para que os dados possam ser coletados no momento certo, O trabalho do Engenheiro de dados é tão importante quanto o trabalho do Cientista de Dados e vem ganhando cada vez mais visibilidade dentro das empresas.
 
-
-Esses s
+-----------------------------------
+O Cientista aplica todas as informações disponibilizadas pelo Engenheiro , verifica todos os insights e gera dados em cima dessa informação para complementar as informações e ter maior aproveitamento das informações.
